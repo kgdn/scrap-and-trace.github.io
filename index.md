@@ -6,7 +6,7 @@ layout: home
 <div style="position: relative;">
     <iframe src="https://my.spline.design/untitled-b7f6ba1887869f0c74159ce672a41783/" frameborder="0" style="width: 100%; height: 900px; border: 1px solid black; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);"></iframe>
     <div class="overlay">
-      <h1>Share Memeories With Each Other</h1>
+      <h1>Share Memories With Each Other</h1>
       <p>Bring people together with our AR app, where you will be able to show off your photos and memories around the world for people to share. Join us, the world is waiting for your memories</p>
     </div>
   </div>
