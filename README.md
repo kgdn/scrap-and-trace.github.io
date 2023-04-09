@@ -3,7 +3,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 [![pages-build-deployment](https://github.com/scrap-and-trace/scrap-and-trace.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/scrap-and-trace/scrap-and-trace.github.io/actions/workflows/pages/pages-build-deployment)
 
-Currently available at https://scrap-and-trace.github.io. Original work created by [Kieran Gordon](https://github.com/kgdn) for https://kgdn.github.io.
+This fork of the website reflects the state of the website prior to the changes made during the third stage of the group project (which I had no involvement in), thus I decided to make an archive of the website with only my commits and changes. The current website can still be viewed at https://scrap-and-trace.github.io, however you will need to run Jekyll locally to see how the website looked prior to stage 3.
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
